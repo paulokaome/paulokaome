@@ -5,7 +5,7 @@
 <p id="foo" style="color: blue">*Desenvolvedor Front-End motivado, com 3 anos de experiência progressiva em setor de Desenvolvimento. Oferecendo conhecimentos em JavaScript ,React Native, ReactJs , Nodejs ,HTML ,CSS , com aptidão em Mobile. Empreendedor energético,independente e formador de equipes, capaz de navegar por situações de alto estresse e atingir os objetivos pontualmente e abaixo do orçamento.* </p>
 </div>
 
-## 🔥  Algumas linguagens de programação que eu gostaria de falar ...*☄️
+## 🔥  Algumas Tecnologias que eu gostaria de falar ...*☄️
 	 
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white`)  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
