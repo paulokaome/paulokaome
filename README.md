@@ -27,7 +27,7 @@
 <!-- Trophies -->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motirck&theme=onedark&title=MultiLanguage,Commit,Followers,PullRequest,Stars" width="760" alt="motirck" /></a> </p>-->
 
-📫Entre em contato  comigo .... 👇
+## 📫Entre em contato  comigo .... 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Azevedo-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloemidio/)  ](https://www.linkedin.com/in/pauloemidio/)
 [![Gmail Badge](https://img.shields.io/badge/-pauloemidioazevedo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauloemidioazevedo@gmail.com)](mailto:pauloemidioazevedo@gmail.com)
