@@ -2,7 +2,9 @@
   src="https://www.imagemhost.com.br/images/2021/07/19/Evva_computer_2-2-1.gif"  alt="">
 # Olá , Me chamo Paulo Azevedo👋👨‍💻
  <div>  
-<p id="foo" style="color: blue">Desenvolvedor Front-End motivado, com 3 anos de experiência progressiva em setor de Desenvolvimento. Oferecendo conhecimentos em JavaScript ,React Native, ReactJs , Nodejs ,HTML ,CSS , com aptidão em Mobile. Empreendedor energético, capaz de navegar por situações de alto estresse e atingir os objetivos pontualmente. </p>
+<p id="foo" style="color: blue">Sou Apaixonado por tecnologia , focado no Front-End ,aplico as melhores tecnologias do mercado em meus projetos e nas empresas que 
+já passei , sou apaixonado por novos conhecimentos, por isso estou sempre me atualizando .
+</p>
 </div>
 
 ## 🔥  Algumas Tecnologias que eu gostaria de falar ...*☄️
